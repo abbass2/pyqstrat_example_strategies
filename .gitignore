@@ -1,0 +1,15 @@
+**/build/**
+**/dist/**
+**/pyqstrat.egg-info/**
+**/.ipynb_checkpoints/**
+**/.eggs/**
+**/*.pyc
+**/*.pyd
+**/.pytest_cache/**
+**/__pycache__/**
+**/.mypy_cache/**
+**/*.so
+**/var/**
+.DS_Store
+clean.sh
+.buildinfo
