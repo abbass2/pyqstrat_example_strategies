@@ -1,0 +1,1 @@
+This momentum strategy is a replicate of [backtrader based strategy](https://teddykoker.com/2019/05/momentum-strategy-from-stocks-on-the-move-in-python/) using China stock data, with help from Sal who creates pyqstrat. I want to replicate because backtrader is slower.
